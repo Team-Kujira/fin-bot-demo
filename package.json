@@ -1,0 +1,13 @@
+{
+  "name": "kujira-fin-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@cosmjs/cosmwasm-stargate": "^0.28.9",
+    "@cosmjs/proto-signing": "^0.28.9",
+    "@cosmjs/stargate": "^0.28.9",
+    "kujira.js": "../kujira.js/"
+  }
+}
