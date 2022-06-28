@@ -8,6 +8,6 @@
     "@cosmjs/cosmwasm-stargate": "^0.28.9",
     "@cosmjs/proto-signing": "^0.28.9",
     "@cosmjs/stargate": "^0.28.9",
-    "kujira.js": "../kujira.js/"
+    "kujira.js": "Team-Kujira/kujira.js.git#9f89ec5b2506fb6a4eee225ff26f528b4cb552ec"
   }
 }
